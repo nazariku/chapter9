@@ -10,13 +10,13 @@ header{
 }
 
 main{
-  width: 960px;
+  width: 90%;
   margin: 50px auto;
   display: flex;
 }
 
 .step-box{
-  width: 300px;
+  width: 32%;
   margin-right: 30px;
   padding: 10px;
   position: relative;
@@ -77,8 +77,8 @@ footer {
   }
   
   .step-box{
-    margin-left: auto;
-    margin-right: auto;
+    width: 90%;
+    padding: 5%;
+    margin: 50px auto 0;
   }
-  
 }
